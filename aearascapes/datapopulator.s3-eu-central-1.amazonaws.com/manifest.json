@@ -1,0 +1,12 @@
+{
+  "short_name": "~scapes",
+  "name": "aeara ~scapes",
+  "id": "aeara",
+  "start_url": "/aeara/scapes",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff",
+  "description": ""
+  ]
+}
